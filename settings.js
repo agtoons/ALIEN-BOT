@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -54,14 +54,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
-global.socialm = "GitHub: Nero" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['+2348100236360'] //+2348100236360
+global.ownername = "🎸 IBRAHIM " //Bashir
+global.ytname = "YT: Nero" //Alien Graphics
+global.socialm = "GitHub: Nero" //ag_toons
+global.location = "India, Mizoram, Aizawl" //Nigeria,Lagos,Agege
 
 //bot bomdy 
-global.owner = ['774579505']
+global.owner = ['']
 global.ownertag = '774579505' //ur tag number
 global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['774579505'] //2348100236360
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
